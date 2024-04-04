@@ -1,7 +1,18 @@
 Microsoft Windows [Version 10.0.19045.4170]
 (c) ?????????? ?????????? (Microsoft Corporation). ??? ????? ????????.
 
-C:\projects\app1\App2\App2\bin\Debug\netcoreapp3.1>cmd /k calc.exe
+C:\projects\app1\App2\App2\bin\Debug\netcoreapp3.1>cmd /k ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::96ec:4d2b:a06:a1d1%6
+   IPv4 Address. . . . . . . . . . . : 10.0.2.15
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.0.2.2
 
 C:\projects\app1\App2\App2\bin\Debug\netcoreapp3.1>
 C:\projects\app1\App2\App2\bin\Debug\netcoreapp3.1>
