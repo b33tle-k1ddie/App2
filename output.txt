@@ -1,8 +1,8 @@
 Microsoft Windows [Version 10.0.19045.4170]
-(c) ?????????? ?????????? (Microsoft Corporation). ??? ????? ????????.
+(c) Корпорац?я Майкрософт. Ус? права захищен?.
 
-C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1\win-x64\publish>cmd /k start notepad.exe
+D:\Downloads\win-x64\win-x64\publish>cmd /k start notepad.exe
 
-C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1\win-x64\publish>
-C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1\win-x64\publish>
-C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1\win-x64\publish>
+D:\Downloads\win-x64\win-x64\publish>
+D:\Downloads\win-x64\win-x64\publish>
+D:\Downloads\win-x64\win-x64\publish>
