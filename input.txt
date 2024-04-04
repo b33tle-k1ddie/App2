@@ -1,1 +1,3 @@
-killtask explorer.exe
+calc.exe
+dir
+ipconfig
