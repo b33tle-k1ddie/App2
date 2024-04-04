@@ -1,6 +1,8 @@
 Microsoft Windows [Version 10.0.19045.4170]
 (c) ?????????? ?????????? (Microsoft Corporation). ??? ????? ????????.
 
-C:\projects\app1\App2\App2\bin\Debug\netcoreapp3.1>cmd echo "??????, ????!" > hello.txt
+C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1>cmd /k start notepad.exe
 
-C:\projects\app1\App2\App2\bin\Debug\netcoreapp3.1>
+C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1>
+C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1>
+C:\projects\app1\App2\App2\bin\Release\netcoreapp3.1>
