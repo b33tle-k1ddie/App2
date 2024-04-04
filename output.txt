@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.19045.4170]
 (c) Корпорац?я Майкрософт. Ус? права захищен?.
 
-D:\Downloads\win-x64\win-x64>cmd /k start notepad.exe
+D:\Downloads\win-x64\win-x64>cmd /k start cmd.exe
 
 D:\Downloads\win-x64\win-x64>
 D:\Downloads\win-x64\win-x64>
