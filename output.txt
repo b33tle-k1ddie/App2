@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.19045.4170]
 (c) ?????????? ?????????? (Microsoft Corporation). ??? ????? ????????.
 
-C:\Users\vboxuser\Downloads\win-x64\win-x64\publish>cmd /k start calc.exe
+C:\Users\vboxuser\Downloads\win-x64\win-x64\publish>cmd /k start notepad.exe
 
 C:\Users\vboxuser\Downloads\win-x64\win-x64\publish>
 C:\Users\vboxuser\Downloads\win-x64\win-x64\publish>
